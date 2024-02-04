@@ -1,1 +1,1 @@
-
+The **Holes Object Detection in Industrial Scene Dataset** was produced on February 17, 2023, collected and annotated by Li Chengyuan. The data set contains a total of 493 real pictures of holes used in industrial production. It only contains hole-type objects. All pictures are 3-channel color format pictures. Contains real pictures of pallet nut pre-connection station and drilling site.
